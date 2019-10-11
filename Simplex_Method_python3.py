@@ -5,7 +5,7 @@ def check(Cj,Zj,e):
 			re=False
 			break
 	return re
-
+# I changed it
 n=int(input("Enter no. of equations = "))
 v=int(input("Enter total no.of variables = "))
 ch=input("Max or Min ?")
